@@ -3,7 +3,7 @@
 
     DESCRIPTION:    On execution, the program runs on background thread and 
                     records every keylogs into a specified file. 
-                    To exit the program, hit Ctrl + E
+                    To exit the program, hit Ctrl + E.
 
     AUTHOR:         Kuanysh Boranbayev
 
